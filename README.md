@@ -1,7 +1,5 @@
 # free-online-tools
 
-# Tools 2 All — Quick Reference (Table Format)
-
 A compact, scannable directory of every free, browser-based tool on **[2all.in](https://2all.in)** (78 tools across 8 categories). No signup, no file uploads, everything runs locally in your browser. For fuller per-tool descriptions, see [README.md](README.md).
 
 ## Categories
